@@ -1,0 +1,9 @@
+## C linkers and flags
+*.o
+*.so
+*.a
+*.bin
+*.elf
+
+
+

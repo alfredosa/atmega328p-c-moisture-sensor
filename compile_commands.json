@@ -1,0 +1,9 @@
+
+[
+    {
+        "directory": "/Users/alfie/codehub/atmega328p-c-moisture-sensor",
+        "command": "/opt/homebrew/bin/avr-gcc -I/opt/homebrew/opt/avr-gcc@9/avr/include -mmcu=atmega328p -c /Users/alfie/codehub/atmega328p-c-moisture-sensor/sensor.c -o /Users/alfie/codehub/atmega328p-c-moisture-sensor/sensor.o",
+        "file": "/Users/alfie/codehub/atmega328p-c-moisture-sensor/sensor.c"
+    }
+]
+
